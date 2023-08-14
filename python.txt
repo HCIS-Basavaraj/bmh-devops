@@ -1,3 +1,0 @@
-Hi All,
-I'm in bmh-devopes-1 branch. Added python.txt
-newly added line.
